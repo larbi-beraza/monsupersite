@@ -1,2 +1,4 @@
 # monsupersite
-modifier readme
+NOM : Beraza
+prenom : larbi 
+groupe : 1
